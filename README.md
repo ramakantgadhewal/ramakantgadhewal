@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ramakantgadhewal
 - 👀 I’m interested in ...PEM Fuel Cell /Electrolyzer Modeling
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ...OpenFOAM,ML
+- 💞️ I’m looking to collaborate on ...PEM Fuel Cell
+- 📫 How to reach me ...ramakantgadhewal@gmail.com
 
 <!---
 ramakantgadhewal/ramakantgadhewal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
