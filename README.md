@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramakantgadhewal
+- 👋 Hi, I’m @Ramakantgadhewal
 - 👀 I’m interested in ...PEM Fuel Cell /Electrolyzer Modeling
 - 🌱 I’m currently learning ...OpenFOAM,ML
 - 💞️ I’m looking to collaborate on ...PEM Fuel Cell
